@@ -24,6 +24,7 @@ export class AddTodo extends Component {
           placeholder="Add Todo..."
           value={this.state.title}
           onChange={this.onChange}
+          required
         />
         <input type="submit" value="submit" className="btn" />
       </form>
