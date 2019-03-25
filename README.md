@@ -5,7 +5,7 @@ Demo:
 
 ![Screenshot 2019-03-25 at 14 29 47](https://user-images.githubusercontent.com/39855605/54920398-d21f1e00-4f0b-11e9-8e3f-eff2849dd31c.png)
 
-##Implementation with React
+## Implementation with React
 > git clone 
 > cd 
 > yarn install
